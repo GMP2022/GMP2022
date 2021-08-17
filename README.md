@@ -3,7 +3,7 @@ GMP
 # Global Multi-Probing for Maximum Inner Product Search with Adaptive Early Termination
 -----------------------------------------------------------------------------------------------------------------
 ### Introduction
-This is a source code for the algorithm described in the paper **[Global Multi-Probing for Maximum Inner Product Search with Adaptive Early Termination (SIGMOD 2022)]**. We call it as GMP project. 
+This is a source code for the algorithm described in the paper **[Global Multi-Probing for Maximum Inner Product Search with Adaptive Early Termination (submitted to SIGMOD 2022)]**. We call it as GMP project. 
 
 ### Compilation
 
@@ -66,5 +66,5 @@ GMP_result.csv
 GMP project is developed by referring to LSHBOX (https://github.com/RSIA-LIESMARS-WHU/LSHBOX). Great appreciation to the contributors of LSHBOX. 
 
 ## Reference 
-**[Global Multi-Probing for Maximum Inner Product Search with Adaptive Early Termination (SIGMOD 2022)]**
+**[Global Multi-Probing for Maximum Inner Product Search with Adaptive Early Termination (submitted to SIGMOD 2022)]**
 
